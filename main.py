@@ -1,4 +1,3 @@
-import aiogram
 import defined_messages
 from aiogram import Bot, Dispatcher, executor, types as aiogram_types
 import os
